@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7d40999-022a-451f-83ac-b6a65104ac9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6_Brown_Marshall_230158096.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6q1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6q1/MyFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6q1/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6q1/NameComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6q1/myPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6q1/myRectangle.java" afterDir="false" />
+    <list default="true" id="e7d40999-022a-451f-83ac-b6a65104ac9f" name="Changes" comment="ok">
+      <change afterPath="$PROJECT_DIR$/src/lab6q2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6q2/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6q3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6q3/MyFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6q1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6q1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6q1/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6q1/MyFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6q1/Name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6q1/NameComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6q1/myPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab6q1/MyPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab6q1/myRectangle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +45,59 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab6q3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.lab6q3.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6q1.Main" />
+      <module name="Lab6_Brown_Marshall_230158096" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab6q2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6q2.Main" />
+      <module name="Lab6_Brown_Marshall_230158096" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6q2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab6q3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6q3.Main" />
+      <module name="Lab6_Brown_Marshall_230158096" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab6q3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lab6q3.Main" />
+        <item itemvalue="Application.lab6q2.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,6 +107,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678043084358</updated>
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1678255017057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678255017057</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +127,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
 </project>
